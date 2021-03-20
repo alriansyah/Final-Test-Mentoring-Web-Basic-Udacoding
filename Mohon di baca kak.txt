@@ -1,0 +1,9 @@
+Buatlah sebuah function yang ada parameter integer ,di dalam function ada when expression,
+  1. jika integer nilainya di atas 60 sampai 80 --> memuaskan
+   2. jika integer nilainya di atas 80 sampai 90 --> sangat memuaskan
+  3. jika integer nilainya di atas 90 sampai 100 --> terpuji
+  4. di bawah 60 --> tidak lulus
+  5. di atas 100 --> nilai tidak valid
+
+
+Jawabannya ada di file when_expression.php
