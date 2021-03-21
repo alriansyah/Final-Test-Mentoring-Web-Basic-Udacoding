@@ -6,7 +6,7 @@
   3. jika integer nilainya di atas 90 sampai 100 --> terpuji
   4. di bawah 60 --> tidak lulus
   5. di atas 100 --> nilai tidak valid
-Jawabannya ada di file : when_expression.php
+   Hasilnya ada di file : when_expression.php
 
 2. Buatlah sebuah form login yang berisi validasi berupa captcha & username :
    Hasilnya ada di file : form_captcha.php, captcha.php, dan config.php 
