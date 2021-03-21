@@ -1,5 +1,7 @@
-  B. WEB PHP
+  A. WEB DENGAN HTML & CSS
+     Hasilnya ada di file dan folder : index.html, form_login.html, register.html dan folder assets
   
+  B. WEB PHP
 1. Buatlah sebuah function yang ada parameter integer ,di dalam function ada when expression,
   1. jika integer nilainya di atas 60 sampai 80 --> memuaskan
    2. jika integer nilainya di atas 80 sampai 90 --> sangat memuaskan
